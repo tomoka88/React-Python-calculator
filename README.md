@@ -1,3 +1,8 @@
+# React-python-calculator
+
+##　Reactとpython（Flask）で基本の電卓作成しました。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

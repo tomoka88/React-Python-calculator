@@ -1,0 +1,181 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 581-050-236
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/app.py", inode=31491627, flags=11400, id=53069692): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/app.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/tomoka/基礎計算機１/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 581-050-236
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 581-050-236
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD", inode=31434394, flags=10400, id=53070089): is_file, is_inode_meta_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock", inode=31493559, flags=18300, id=53070098): is_coalesced, is_created, is_file, is_removed, is_xattr_mod
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD", inode=31434394, flags=10400, id=53121544): is_file, is_inode_meta_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock", inode=31497351, flags=18300, id=53121553): is_coalesced, is_created, is_file, is_removed, is_xattr_mod
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx", inode=31489506, flags=11400, id=53128611): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo", inode=31491002, flags=11400, id=53128645): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/294561690360b91455ea0cf71e5a65ead041d5987a1bd66d7df0078604af7f35.json", inode=31497937, flags=19100, id=53128654): is_created, is_file, is_modified, is_xattr_mod
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/294561690360b91455ea0cf71e5a65ead041d5987a1bd66d7df0078604af7f35.json', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/294561690360b91455ea0cf71e5a65ead041d5987a1bd66d7df0078604af7f35.json', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache", inode=31470690, flags=11400, id=53128825): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_", inode=31497952, flags=18100, id=53128897): is_created, is_file, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_", inode=31497950, flags=19100, id=53128900): is_created, is_file, is_modified, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_", inode=31497951, flags=19100, id=53128903): is_created, is_file, is_modified, is_xattr_mod
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31492944, flags=10800, id=53128909): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31492944, flags=10800, id=53128910): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31492763, flags=10800, id=53128911): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_", inode=31497952, flags=19900, id=53128914): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31497952, flags=10800, id=53128915): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31492943, flags=10800, id=53128916): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_", inode=31497950, flags=19900, id=53128919): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31497950, flags=10800, id=53128920): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31492762, flags=10800, id=53128921): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_", inode=31497951, flags=19900, id=53128924): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31497951, flags=10800, id=53128925): is_file, is_renamed
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31492944, flags=10800, id=53128910)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31497952, flags=10800, id=53128915)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31497950, flags=10800, id=53128920)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31497951, flags=10800, id=53128925)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx", inode=31489506, flags=11400, id=53130435): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache", inode=31470690, flags=11400, id=53130463): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo", inode=31491002, flags=11400, id=53130469): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx", inode=31489506, flags=11400, id=53132607): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache", inode=31470690, flags=11400, id=53132635): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo", inode=31491002, flags=11400, id=53132641): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_", inode=31498186, flags=18100, id=53132710): is_created, is_file, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_", inode=31498187, flags=18100, id=53132716): is_created, is_file, is_xattr_mod
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_", inode=31498188, flags=19100, id=53132740): is_created, is_file, is_modified, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31497951, flags=10800, id=53132743): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31497951, flags=10800, id=53132744): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31492944, flags=10800, id=53132745): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_", inode=31498189, flags=19900, id=53132748): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31498189, flags=10800, id=53132749): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31497952, flags=10800, id=53132750): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_", inode=31498186, flags=19900, id=53132753): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack", inode=31498186, flags=10800, id=53132754): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack", inode=31492942, flags=10800, id=53132755): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_", inode=31498187, flags=19900, id=53132758): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31498187, flags=10800, id=53132759): is_file, is_renamed
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31497950, flags=10800, id=53132760): is_file, is_renamed
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old", inode=31497951, flags=10800, id=53132744)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack.old', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack", inode=31498189, flags=10800, id=53132749)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/4.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack", inode=31498186, flags=10800, id=53132754)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/6.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack", inode=31498187, flags=10800, id=53132759)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/2.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_", inode=31498188, flags=19900, id=53132763): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31498188, flags=10800, id=53132764): is_file, is_renamed
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', is_directory=False>
+DEBUG:fsevents:Destination event for rename is NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack", inode=31498188, flags=10800, id=53132764)
+DEBUG:fsevents:queue_event <FileMovedEvent: src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack_', dest_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development/index.pack', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/default-development', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD", inode=31434394, flags=10400, id=53132836): is_file, is_inode_meta_mod
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock", inode=31498195, flags=18300, id=53132845): is_coalesced, is_created, is_file, is_removed, is_xattr_mod
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/FETCH_HEAD', is_directory=False>
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <FileDeletedEvent: event_type=deleted, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects/maintenance.lock', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/.git/objects', is_directory=True>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx", inode=31489506, flags=11400, id=53133020): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/src/Calculator.tsx', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/3ff35f019d19a08827fcf02a5de6e8bd7db963733926310f5974a1c94706e379.json", inode=31498206, flags=19100, id=53133051): is_created, is_file, is_modified, is_xattr_mod
+DEBUG:fsevents:queue_event <FileCreatedEvent: event_type=created, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/3ff35f019d19a08827fcf02a5de6e8bd7db963733926310f5974a1c94706e379.json', is_directory=False>
+DEBUG:fsevents:queue_event <DirModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader', is_directory=True>
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/babel-loader/3ff35f019d19a08827fcf02a5de6e8bd7db963733926310f5974a1c94706e379.json', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo", inode=31491002, flags=11400, id=53133057): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/tsconfig.tsbuildinfo', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache", inode=31470690, flags=11400, id=53133063): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/calculator-app/node_modules/.cache/.eslintcache', is_directory=False>
+DEBUG:fsevents:NativeEvent(path="/Users/tomoka/基礎計算機１/app.py", inode=31491627, flags=11400, id=53134827): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:queue_event <FileModifiedEvent: event_type=modified, src_path='/Users/tomoka/基礎計算機１/app.py', is_directory=False>
+INFO:werkzeug: * Detected change in '/Users/tomoka/基礎計算機１/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
